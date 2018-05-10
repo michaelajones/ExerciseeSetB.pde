@@ -27,6 +27,4 @@ void setup() {
 textSize(fontSize);
 }
 
-void draw() {
-  noLoop();
-}
+
